@@ -2,7 +2,7 @@ package customers
 
 import (
 	"fmt"
-	"modules-go/orders"
+	"github.com/Ciel2142/modules-go/orders"
 )
 
 type Customer struct {
